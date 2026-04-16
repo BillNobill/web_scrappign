@@ -1,0 +1,11 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "Experimentos e ferramentas para Web Scraping com interface web simples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BillNobill",
+  "license": "MIT"
+}
